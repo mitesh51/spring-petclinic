@@ -6,7 +6,7 @@
     <artifactId>spring-petclinic</artifactId>
     <version>4.2.5-SNAPSHOT</version>
 
-    <name>Xin Chao Huy Loc</name>
+    <name>Vu Huy Loc</name>
     <packaging>war</packaging>
 
     <properties>
