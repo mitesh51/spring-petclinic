@@ -6,7 +6,7 @@
     <artifactId>spring-petclinic</artifactId>
     <version>4.2.5-SNAPSHOT</version>
 
-    <name>Hi Phu</name>
+    <name>Hi Loc</name>
     <packaging>war</packaging>
 
     <properties>
