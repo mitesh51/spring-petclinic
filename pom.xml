@@ -6,7 +6,7 @@
     <artifactId>spring-petclinic</artifactId>
     <version>4.2.5-SNAPSHOT</version>
 
-    <name>Vu Huy Loc</name>
+    <name>Vo Minh Luan</name>
     <packaging>war</packaging>
 
     <properties>
